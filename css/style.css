@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(to right,rgba(125,162,199,0.3),rgba(183, 53, 81, 0.3));
+
+}
+
+.bg-fix{
+    background: linear-gradient(to left,rgba(127, 199, 125, 0.3),rgba(53, 109, 183, 0.3));
+}
+
+.footer_fix{
+    background-color: #bbb;
+    position: fixed;
+    bottom:0;
+    left: 0;
+    right: 0;
+}
+
+.setting{
+    min-height: 100px !important;
+}
+.center{
+    display: block;
+    text-align: center;
+}
+
+.img-fix:hover{
+    opacity: 0.7 !important;
+}
+
+.img-fix{
+    width: 130px !important;
+    height: 175px !important;
+}
